@@ -41,7 +41,7 @@ In multi-variable calculus, the gradient of a function points to the direction o
 
 but we only have a direction. so, we assume a step size also called the learning rate. and we move with that amount of steps. We use these steps to update our value. 
 
-$$j(\theta_{new}) = j(\theta_{old}) - \alpha \nabla j(\theta_{old})$$
+$$\theta_{k} = \theta_{k} - \alpha  j(\frac{\partial{j(\theta_{k})}}{\partial{\theta_{k}}})$$
 
 theoretically, we continue till our gradient is 0. but, practically we reach very close to 0 and end it there.
 

@@ -1,0 +1,31 @@
+[33mcommit 7f25c098b13633e66fa1944a183f01f2db1d3cfe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rohit <rohit.gopu00@gmail.com>
+Date:   Fri Apr 10 08:07:08 2026 +0530
+
+    md fix
+
+[33mcommit 791e4904bfc3302eaed51a6cf19f908872314c0b[m
+Author: Rohit <rohit.gopu00@gmail.com>
+Date:   Fri Apr 10 07:58:17 2026 +0530
+
+    logic of linear regression
+
+[33mcommit 1ccee013b3ea780f70690d7db3f2f33dd899e9c5[m
+Author: Rohit <rohit.gopu00@gmail.com>
+Date:   Fri Apr 10 07:17:29 2026 +0530
+
+    Revert "initial readme.md setup"
+    
+    This reverts commit 9bc7003a7de23ded728df0182e7ab6c3d1a6c9e4.
+
+[33mcommit 9bc7003a7de23ded728df0182e7ab6c3d1a6c9e4[m
+Author: Rohit <rohit.gopu00@gmail.com>
+Date:   Fri Apr 10 07:12:06 2026 +0530
+
+    initial readme.md setup
+
+[33mcommit d362b6bc0f5457734d14240f4dbed02bd9158747[m
+Author: Rohit <rohit.gopu00@gmail.com>
+Date:   Fri Apr 10 07:05:55 2026 +0530
+
+    Initial commit
